@@ -24,11 +24,14 @@ All CSV files contain the following columns:
 ## Data Sources
 
 1. 🇫🇷 **French Data**:
-   - Extracted from Cochrane Wikiviki
-   - Contains medical texts in French
+   - Extracted from Cochrane Wikiviki http://natalia.grabar.free.fr/CLEAR/clear-res.php 
+   - Contains medical texts in French 
 
 2. 🇬🇧 **English Data**:
    - Extracted from Cochrane Plaba SJK
+      - Cochrane https://github.com/qiuweipku/Plain_language_summarization/tree/main/CDSR_data
+      - Plaba https://bionlp.nlm.nih.gov/plaba2023/#data
+      - SJK https://github.com/loukritia19/science-journal-for-kids-data
    - Contains medical texts in English
 
 
