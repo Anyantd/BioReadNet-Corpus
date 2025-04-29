@@ -8,9 +8,9 @@ This repository contains the BioReadNet corpus, a bilingual dataset of  20,008 b
 
 The corpus consists of three CSV files:
 
-1. **fr_cochraneWikiviki.csv** - French medical texts
-2. **en_CochranePlabaSJK.csv** - English medical texts  
-3. **BioReadNet_corpus.csv** - Combined multilingual corpus
+1. **fr_cochraneWikiviki.csv** - French medical texts -> raw_data.zip
+2. **en_CochranePlabaSJK.csv** - English medical texts  -> raw_data.zip
+3. **BioReadNet_corpus.csv** - Combined multilingual corpus -> BioReadNet_corpus.zip
 
 ### File Structure
 
