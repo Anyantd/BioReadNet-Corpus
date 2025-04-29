@@ -35,3 +35,4 @@ All CSV files contain the following columns:
 🛠 Applications
 - Biomedical readability classification
 - Text simplification and generation
+- Information retreival 
