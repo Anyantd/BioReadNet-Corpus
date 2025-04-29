@@ -2,7 +2,7 @@
 BioReadNet: A Transformer-Driven Hybrid Model for Target Audience-Aware Biomedical Text Readability Assessment
 📄 Associated Paper
 
-This repository contains the BioReadNet corpus, a bilingual dataset of  20,008 biomedical texts labeled by target audience  (expert adults vs. non-expert adults vs. children). It was built to support audience-aware readability assessment and text simplification of biomedical documents.
+This repository contains the BioReadNet corpus, a bilingual dataset of  20,008 biomedical texts labeled by target audience  (expert adults vs. non-expert adults vs. children). It was built to support audience-aware readability assessment.
 
 ## 📦 Dataset Description
 
