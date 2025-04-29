@@ -36,7 +36,7 @@ All CSV files contain the following columns:
 
 Note: You can access Cochrane Reviews for non-commercial text and data mining by accepting Wiley's click-through Text and Data Mining license. Once accepted, you'll receive an API token. Learn more here:
    -Wiley TDM License: https://onlinelibrary.wiley.com/library-info/resources/text-and-datamining
-   -Cochrane Access Help: https://www.cochranelibrary.com/help/access"
+   -Cochrane Access Help: https://www.cochranelibrary.com/help/access
 
 🛠 Applications
 - Biomedical readability classification
